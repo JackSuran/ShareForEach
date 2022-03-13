@@ -9,10 +9,10 @@
 
 例如：
 ``` C
-int AddTwoNumber(int num1,int nun2)
+int AddTwoNumber(int num1,int num2)
 {
     int sum = num1 + num2;
-    retuen sum;
+    return sum;
 }
 ```
 
@@ -35,10 +35,10 @@ int AddTwoNumber(int num1,int nun2)
 ``` C
 #include<stdio.h>
 
-int AddTwoNumber(int num1,int nun2)
+int AddTwoNumber(int num1,int num2)
 {
     int sum = num1 + num2;
-    retuen sum;
+    return sum;
 }
 
 int main()
